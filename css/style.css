@@ -1,6 +1,7 @@
 body {
   font-size: 20px;
   font-family: Arial, Helvetica, sans-serif;
+  text-align: justify;
   background-color: #F5FEFE;
 }
 
@@ -38,7 +39,7 @@ article {
 .business-card {
   margin: 10px;
   border: 2px solid black;
-  border-radius: 5px;  
+  border-radius: 5px;
 }
 
 .business-card p {
